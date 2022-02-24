@@ -1,4 +1,4 @@
-<img src="assets/img/screenshot.png" title="Display">
+<img src="assets/img/Screenshot.png" title="Display">
 
 # <a href="https://display-website.netlify.app/" target="_blank">Multipage HTML Template</a><br>
 
